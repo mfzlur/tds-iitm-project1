@@ -1,1 +1,5 @@
-# tds-iitm-project1
+- Scrapping the data
+
+- Interesting and surprising facts
+
+- Recommendation
