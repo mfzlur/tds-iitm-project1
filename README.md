@@ -7,7 +7,7 @@
     - for individual user details used https://api.github.com/users/{user_id} to fetch user specific data
     - for repos for each user used https://api.github.com/users/{user_id}/repos?sort=pushed&direction=desc
     - used python to handle data cleaning and applying constraints
-    - refer **datascraping.py** for code details
+    - refer **datascrapping.py** for code details
 
 - **Interesting and surprising facts**
   
